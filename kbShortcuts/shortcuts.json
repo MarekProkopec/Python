@@ -1,0 +1,15 @@
+{
+    "shortcuts":[
+        ["ctrl+alt+1", "Test sentence 1"],
+        ["ctrl+alt+2", "Test sentence 2"],
+        ["ctrl+alt+3", "Test sentence 3"],
+        ["ctrl+alt+4", ""],
+        ["ctrl+alt+5", ""],
+        ["ctrl+alt+6", ""],
+        ["ctrl+alt+7", ""],
+        ["ctrl+alt+8", ""],
+        ["ctrl+alt+9", ""],
+        ["ctrl+alt+0", ""]
+    ],
+    "endProgram": "ctrl+shift+del"
+}  
